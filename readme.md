@@ -8,10 +8,13 @@ Your structure should then look like this:
 
 ```yaml
 site/
-  fields/
+  plugins/
     clonr/
-      assets/
+      clonr.php
+      field/
+        assets/
         clonr.php
+        template.php
 ```
 
 ## In your blueprint
