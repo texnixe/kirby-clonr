@@ -1,0 +1,38 @@
+.btn-clonr {
+  display: inline-block;
+  width: 120px;
+  height: 44px;
+  vertical-align: middle;
+  text-align: left;
+}
+.btn-clonr i.icon.fa.fa-clone {
+  margin-right: 10px;
+}
+.input-clonr {
+  display: none;
+  height: 30px;
+  width: calc(100% - 126px);
+  vertical-align: middle;
+}
+.input-clonr.active {
+  display: inline-block;
+}
+
+.message-clonr {
+  width: 100%;
+  height: 40px;
+  padding: 4px 0;
+  display: none;
+  line-height: 32px;
+}
+.message-clonr.success {
+  color: #8dae28;
+}
+.message-clonr.error {
+  color: #b3000a;
+}
+.message-clonr i.icon.fa.fa-close {
+  padding-left: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}

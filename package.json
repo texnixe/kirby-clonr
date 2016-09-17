@@ -1,0 +1,11 @@
+{
+  "name": "clonr",
+  "description": "Kirby Duplicate Page Field",
+  "author": "Sonja Broda <sonja@texniq.de>",
+  "license": "GPL",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/texnixe/clonr",
+  "type": "kirby-plugin"
+}
