@@ -99,7 +99,7 @@ class ClonrField extends BaseField {
       $response = array(
         'message' => 'The new page was created. ',
         'class' => 'success',
-        'uri' => $newPage->uri()
+        'uri' => $newPage->id()
       );
 
     } catch(Exception $e) {
