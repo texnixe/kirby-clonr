@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/texnixe/kirby-clonr",
+    "url": "https://github.com/texnixe/kirby-clonr"
   },  
   "type": "kirby-plugin"
 }
